@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Haruhastian
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Ruby Automation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I'm Hastian!
+I’m a Software Development Engineer in Test (SDET) and Quality Assurance Automation Engineer with a strong focus on building robust and scalable automation frameworks.
 
-<!---
-Haruhastian/Haruhastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 What I Do
+Web Automation using Ruby or Java, powered by:
+Selenium WebDriver
+Cucumber for BDD (Behaviour-Driven Development)
+
+Mobile Automation using Java and:
+Appium WebDriver for cross-platform testing
+
+🚀 Skills & Tools
+Languages: Java, Ruby
+Frameworks: Selenium, Cucumber, Appium
+Test Design: BDD, Data-Driven, Cross-Browser Testing
+
+Version Control: Git & GitHub
+
+🔍 GitHub Projects
+Check out some of my automation code and projects at:
+📎 github.com/Haruhastian
